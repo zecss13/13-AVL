@@ -3,7 +3,7 @@
 
 ## Objetivos
 
-Ao concluir esta atividade você deverá estender sua compreensão os seguintes conceitos:
+Ao concluir esta atividade você deverá estender sua compreensão sobre arvores com os seguintes conceitos:
 * Arvore binária de busca
 * Altura de nó e fator de balanceamento
 * Baleanceamento através de rotações esquerda/direita 
